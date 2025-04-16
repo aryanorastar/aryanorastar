@@ -14,7 +14,7 @@ Building smart solutions that make life easier & more efficient.
 ---
 
 ### 🛠 Tech Stack
-`React` `TypeScript` `JavaScript` `TailwindCSS` `Firebase` `Supabase` `HTML/CSS` `Git`
+`React` `TypeScript` `JavaScript` `TailwindCSS` `Firebase` `Supabase` `HTML/CSS` `Git` 'SQL'
 
 ---
 
