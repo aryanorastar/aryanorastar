@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Aryan Gupta
+I'm a student at Thapar, passionate about full-stack development, robotics, and startup innovation.
 
-**🚀 Developer | 🧠 Tech Enthusiast | 🎓 Thapar University (CSE)**  
+**🚀 Developer | 🧠 Tech Enthusiast | 🎓 Thapar University (COE)**  
 Building smart solutions that make life easier & more efficient.
 
 ---
