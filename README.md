@@ -8,14 +8,12 @@ Building smart solutions that make life easier & more efficient.
 
 ### 🧑‍💻 What I'm Working On:
 - 🔗 [ThaparSocietiesHub](https://github.com/aryanorastar/ThaparSocitiesHub) – a centralized platform for all societies at Thapar.
-- 🧭 [ThaparTracker](https://github.com/aryanorastar/ThaparTracker) – a smart lost & found system for campus.
-- 📊 [StartupFinance](https://github.com/aryanorastar/StartupFinance) – a finance tracker for new-age startups.
 - 🚀 [ThaparGo](https://github.com/aryanorastar/ThaparGo) – student travel and navigation inside Thapar.
 
 ---
 
 ### 🛠 Tech Stack
-`React` `TypeScript` `JavaScript` `TailwindCSS` `Firebase` `Supabase` `HTML/CSS` `Git` `SQL`
+`React` `TypeScript` `JavaScript` `TailwindCSS` `Supabase` `HTML/CSS` `SQL`
 
 ---
 
