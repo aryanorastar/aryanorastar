@@ -32,6 +32,10 @@ Obsessed with solving real-world problems through clean and scalable code.
 
 ---
 
+![Certified by MongoDB](https://img.shields.io/badge/Certified%20by-MongoDB-brightgreen)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
