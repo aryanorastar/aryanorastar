@@ -1,65 +1,64 @@
-<details>
-  <summary><b>📄 Resume and Experience (click to expand)</b></summary>
+<h1 align="center">Hey 👋, I'm Aryan Gupta</h1>
+<p align="center">
+🚀 Developer | 🧠 Tech Enthusiast | 🎓 B.Tech @ Thapar University<br>
+Obsessed with solving real-world problems through clean and scalable code.
+</p>
 
-  <br>
+<p align="center">
+  <a href="https://github.com/aryanorastar?tab=followers">
+    <img src="https://img.shields.io/github/followers/aryanorastar?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aryanorastar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-  <b>👤 Aryan Gupta</b>  
-  <b>Email:</b> aryangupts05@gmail.com  
-  <b>Location:</b> Nabha, Punjab, India  
-  <b>Portfolio:</b> [aryanexe.netlify.app](https://aryanexe.netlify.app)
+---
 
-  ---
+### 👨‍💻 About Me
 
-  **💼 Experience**
+- 💡 Building digital solutions & exploring blockchain tech
+- 👨‍🎓 B.Tech Computer Engineering, Thapar Institute (2024–2028)
+- 🌐 Interests: Full-stack development, blockchain, open-source, hackathons
+- 🏅 Intern @ BlockseBlock (2025) | Blockchain Developer
+- 🤝 Always open for collaboration & learning
 
-  - <b>Blockchain Developer, BlockseBlock (Remote)</b> <br>
-    <i>June 2025 – Present</i>
-    - Developed and tested Smart Contracts with Solidity
-    - Built and explored dApps, real-world blockchain use cases
-    - Contributed to full-stack blockchain platform architecture
-    - Researched frameworks/tools for blockchain performance and security
-    - Collaborated in agile dev teams, using version control
+---
 
-  **🚀 Projects**
+### 🛠 Tech Stack
 
-  - <b>[Thapar Societies Hub](https://github.com/aryanorastar/ThaparSocietiesHub)</b> (03/2025 – Present)
-    - Centralized platform for all societies at Thapar University, including Timetable and News section.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,tailwind,solidity,sql,mongodb,postgres,aws,git" />
+</p>
+<sup>Python · Java · C/C++ · JavaScript/TypeScript · React · Tailwind CSS · Solidity · SQL · MongoDB · PostgreSQL · AWS · Git/GitHub</sup>
 
-  - <b>[EVote](https://github.com/aryanorastar/EVote)</b> (04/2025 – Present)
-    - Decentralized governance platform built on Internet Computer blockchain for transparent local decision-making.
+---
 
-  ---
+### 📊 GitHub Stats
 
-  **🎓 Education**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanorastar&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=aryanorastar&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorastar&layout=compact&theme=radical" height="160px"/>
+</p>
 
-  - <b>B.Tech, Computer Engineering</b> <br>
-    Thapar Institute of Engineering & Technology, Patiala, India  
-    <i>2024 – 2028</i>, CGPA
+---
 
-  - <b>12th (PCM, 83.6%)</b> <br>
-    Sri Guru Gobind Singh Sr. Sec. School, Chandigarh, 2022–2024
+### 🚩 Featured Projects
 
-  - <b>10th (PCM, 90.6%)</b> <br>
-    The Punjab Public School, Nabha, 2018–2022
+- [**ThaparSocietiesHub**](https://github.com/aryanorastar/ThaparSocietiesHub): Centralized platform for societies & events at Thapar.
+- [**EVote**](https://github.com/aryanorastar/EVote): Decentralized governance dApp for community decision-making.
+- [**ThaparGo-web3**](https://github.com/aryanorastar/ThaparGo-web3): Campus navigation & scheduling platform.
+- [**ICP-Project**](https://github.com/aryanorastar/ICP-Project): Decentralized social network with Internet Computer Protocol.
 
-  ---
+---
 
-  **🔧 Skills Summary**
+### 📫 Connect with Me
 
-  - <b>Languages:</b> Python, Java, C, C++, JavaScript, TypeScript, HTML/CSS, SQL, Rust
-  - <b>Frameworks:</b> React.js, Tailwind CSS, shadcn/ui, Vite, Spring, Web3.js, Express.js, Solidity, Kafka, Maven, MongoDB Aggregation Framework, UML
-  - <b>Databases:</b> MongoDB, PostgreSQL, SQL, NoSQL, Cloud DBs, Data Modeling, Query Optimization, Performance Tuning, Security
-  - <b>Tools:</b> Git, GitHub, Supabase, MongoDB Atlas, AWS, Arduino IDE, Internshala, EVote, JPMorgan Chase Simulator, Walmart Simulator, Red Bull Simulator, SPECTRE CTF, Android Studio, Google Cloud AI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-gupta-72a532211)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryanexe.netlify.app-blueviolet)](https://aryanexe.netlify.app)
+[![Email](https://img.shields.io/badge/Email-aryangupts05@gmail.com-critical)](mailto:aryangupts05@gmail.com)
 
-  ---
+---
 
-  **📜 Certifications**
-
-  - MongoDB Python Developer Path – MongoDB
-  - JPMorgan Chase & Co – Software Engineering Job Simulation
-  - AWS APAC – Solutions Architecture Simulation
-  - SPECTRE – CTF (Thapar)
-  - Blockchain Hackathon – BlockseBlock
-  - Walmart USA – Advanced Software Engineering Simulation
-
-</details>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
