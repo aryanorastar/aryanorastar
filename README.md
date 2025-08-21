@@ -6,9 +6,9 @@ Obsessed with solving real-world problems through clean and scalable code.
 
 <p align="center">
   <a href="https://github.com/aryanorastar?tab=followers">
-    <img src="https://img.shields.io/github/followers/aryanorastar?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/aryanorastar?label=Followers&style=social"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aryanorastar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryanorastar&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -60,5 +60,5 @@ Obsessed with solving real-world problems through clean and scalable code.
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
