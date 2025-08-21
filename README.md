@@ -1,77 +1,65 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Aryan Gupta</h1>
-<p align="center">
-🚀 Developer | 🧠 Tech Enthusiast | 🎓 Thapar University (COE)<br>
-Obsessed with solving real-world problems through clean and scalable code.
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/aryanorastar?tab=followers">
-    <img src="https://img.shields.io/github/followers/aryanorastar?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aryanorastar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 💡 Building smart solutions to make life easier
-- 🌐 Interested in full-stack web dev, blockchain, and robotics
-- 🏅 Actively contributing to open source and college societies
-
----
-
 <details>
-  <summary>📄 <b>Resume and Experience (click to expand)</b></summary>
-  
-  **Academics:**<br>
-  <img src="https://img.shields.io/badge/B.Tech-Thapar_University-1877F2?style=for-the-badge">
-  
-  **Experience:**<br>
-  - *Your Role* at *Company* | Duration <br>
-    — Brief work description.
+  <summary><b>📄 Resume and Experience (click to expand)</b></summary>
+
+  <br>
+
+  <b>👤 Aryan Gupta</b>  
+  <b>Email:</b> aryangupts05@gmail.com  
+  <b>Location:</b> Nabha, Punjab, India  
+  <b>Portfolio:</b> [aryanexe.netlify.app](https://aryanexe.netlify.app)
+
+  ---
+
+  **💼 Experience**
+
+  - <b>Blockchain Developer, BlockseBlock (Remote)</b> <br>
+    <i>June 2025 – Present</i>
+    - Developed and tested Smart Contracts with Solidity
+    - Built and explored dApps, real-world blockchain use cases
+    - Contributed to full-stack blockchain platform architecture
+    - Researched frameworks/tools for blockchain performance and security
+    - Collaborated in agile dev teams, using version control
+
+  **🚀 Projects**
+
+  - <b>[Thapar Societies Hub](https://github.com/aryanorastar/ThaparSocietiesHub)</b> (03/2025 – Present)
+    - Centralized platform for all societies at Thapar University, including Timetable and News section.
+
+  - <b>[EVote](https://github.com/aryanorastar/EVote)</b> (04/2025 – Present)
+    - Decentralized governance platform built on Internet Computer blockchain for transparent local decision-making.
+
+  ---
+
+  **🎓 Education**
+
+  - <b>B.Tech, Computer Engineering</b> <br>
+    Thapar Institute of Engineering & Technology, Patiala, India  
+    <i>2024 – 2028</i>, CGPA
+
+  - <b>12th (PCM, 83.6%)</b> <br>
+    Sri Guru Gobind Singh Sr. Sec. School, Chandigarh, 2022–2024
+
+  - <b>10th (PCM, 90.6%)</b> <br>
+    The Punjab Public School, Nabha, 2018–2022
+
+  ---
+
+  **🔧 Skills Summary**
+
+  - <b>Languages:</b> Python, Java, C, C++, JavaScript, TypeScript, HTML/CSS, SQL, Rust
+  - <b>Frameworks:</b> React.js, Tailwind CSS, shadcn/ui, Vite, Spring, Web3.js, Express.js, Solidity, Kafka, Maven, MongoDB Aggregation Framework, UML
+  - <b>Databases:</b> MongoDB, PostgreSQL, SQL, NoSQL, Cloud DBs, Data Modeling, Query Optimization, Performance Tuning, Security
+  - <b>Tools:</b> Git, GitHub, Supabase, MongoDB Atlas, AWS, Arduino IDE, Internshala, EVote, JPMorgan Chase Simulator, Walmart Simulator, Red Bull Simulator, SPECTRE CTF, Android Studio, Google Cloud AI
+
+  ---
+
+  **📜 Certifications**
+
+  - MongoDB Python Developer Path – MongoDB
+  - JPMorgan Chase & Co – Software Engineering Job Simulation
+  - AWS APAC – Solutions Architecture Simulation
+  - SPECTRE – CTF (Thapar)
+  - Blockchain Hackathon – BlockseBlock
+  - Walmart USA – Advanced Software Engineering Simulation
+
 </details>
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,js,tailwind,supabase,html,css,sql" />
-</p>
-
----
-
-### 📊 GitHub Stats & Widgets
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanorastar&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=aryanorastar&theme=radical" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorastar&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 🚩 Pinned Projects
-
-- [ThaparSocietiesHub](https://github.com/aryanorastar/ThaparSocietiesHub) - Centralized platform for all societies at Thapar.
-- [ThaparGo-web3](https://github.com/aryanorastar/ThaparGo-web3) - Campus navigation and class scheduling platform.
-- [EVote](https://github.com/aryanorastar/EVote) - Decentralized governance for local communities.
-- [ICP-Project](https://github.com/aryanorastar/ICP-Project) - Modern decentralized social network on ICP.
-
----
-
-### 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-gupta-72a532211)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryanexe.netlify.app-blueviolet)](https://aryanexe.netlify.app)
-[![Email](https://img.shields.io/badge/Email-aryangupts05@gmail.com-critical)](mailto:aryangupts05@gmail.com)
-
----
-
-<!-- Quote Widget -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
