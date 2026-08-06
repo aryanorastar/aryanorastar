@@ -24,7 +24,7 @@ const aryan = {
   edu: "B.Tech CSE @ Thapar Institute (2024 → 2028)",
   intern: "Blockchain Developer @ BlockseBlock (2025)",
   focus: ["Web3 / ICP / Polkadot", "Full-stack", "AI · MCP · LangChain"],
-  currentlyBuilding: ["mandi-mcp", "IRON ATLAS", "ID Vault"],
+  currentlyBuilding: ["Omi (BasedHardware) OSS — 41+ merged PRs", "mandi-mcp", "IRON ATLAS"],
   motto: "Solve real problems with clean, scalable code.",
 };
 ```
@@ -35,6 +35,20 @@ const aryan = {
 - 🤝 Always down to collaborate — reach me below
 
 ---
+
+## 💼 Open for hire (paid)
+
+**Flutter / mobile reliability contractor or internship** — IST · ~10–15 hrs/week
+
+I ship production fixes on **[Omi / Based Hardware](https://github.com/BasedHardware/omi)** (AI wearable): **41+ merged PRs** across Flutter, BLE reconnect, offline sync, notifications, and CI.
+
+| | |
+|---|---|
+| **Proof pack** | [gist](https://gist.github.com/aryanorastar/d8ff5b161c961e60e7bfb9a497a591aa) |
+| **Resume (PDF)** | [download](https://github.com/aryanorastar/aryan-proof-pack/raw/main/Aryan_Gupta_Flutter.pdf) |
+| **Hire page** | [aryan-proof-pack](https://github.com/aryanorastar/aryan-proof-pack) · [live site](https://aryanorastar.github.io/aryan-proof-pack/) |
+| **Email** | [aryangupts05@gmail.com](mailto:aryangupts05@gmail.com) |
+
 
 ## 🛠️ Tech Arsenal
 
