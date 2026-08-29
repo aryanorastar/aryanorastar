@@ -17,16 +17,16 @@
  .#%%%%%%%%#*#####+   =*#%##%%%%%%=     ci          12   fail-closed release pipelines
  =@%%%%%@%%%%%%%%%=...+#%%%%%@%%%%*     web          7   Next.js · deep links, perf
 .#@%%%@%@@%%%%%%%%-...=#%%%%%@@%%%+     other       26   listen · sync · chat · mcp · dev-api
--%@%%%@@@%%%%%%%%#....=%%%%%@@%%%%#.    ────────────────────────────────────────────
-*@@%%%@@@@%%%%%%%+....=%@%%%@@%%%%%:
-#@@@%%@@@@@%%%%%%+----+%@%%@%%%%%%@=    open PRs   meshery · OpenHands · zulip · CCExtractor
-*@%%##%@@@@%%%%%%+====+#@%@%#***#%%:    builds     Astar · mandi-mcp · ThaparGo · ID Vault
--#%#*+#@@@@@%%%%%======#@@@#*###%%-     since      19 Jul 2026  →  ~110 merges in 6 weeks
- -##***@@@@@@%%@#+===:=#@@*=+*#%#-      status     open to paid work
-  -%#%%@@@@@@%%%===-::=*@#++*#%@+       contact    aryangupts05@gmail.com
-  .####@@@@@@%%%: .::=++#++*#%%%%=
-   +%**@@@@@@%%#*-..:-===***%%###%=                ███ ███ ███ ███ ███ ███ ███
-   =%#*%@@@@@@%#***+==*++*#%@%%####-
+-%@%%%@@@%%%%%%%%#....=%%%%%@@%%%%#.    reviews     51   code reviews given across 5 repos
+*@@%%%@@@@%%%%%%%+....=%@%%%@@%%%%%:    ────────────────────────────────────────────
+#@@@%%@@@@@%%%%%%+----+%@%%@%%%%%%@=
+*@%%##%@@@@%%%%%%+====+#@%@%#***#%%:    open PRs   meshery · OpenHands · zulip · CCExtractor
+-#%#*+#@@@@@%%%%%======#@@@#*###%%-     builds     Astar · mandi-mcp · ThaparGo · ID Vault
+ -##***@@@@@@%%@#+===:=#@@*=+*#%#-      since      19 Jul 2026  →  ~110 merges in 6 weeks
+  -%#%%@@@@@@%%%===-::=*@#++*#%@+       status     open to paid work
+  .####@@@@@@%%%: .::=++#++*#%%%%=      contact    aryangupts05@gmail.com
+   +%**@@@@@@%%#*-..:-===***%%###%=
+   =%#*%@@@@@@%#***+==*++*#%@%%####-               ███ ███ ███ ███ ███ ███ ███
    .####@@@@@@%%%%@%######%@%%%%#***:
 ```
 
@@ -152,16 +152,24 @@ Decentralized identity + credential wallet on Polkadot, with selective disclosur
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity, counted rather than badged
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanorastar&show_icons=true&count_private=true&hide_border=true&title_color=2575fc&icon_color=6a11cb&text_color=9f9f9f&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=aryanorastar&hide_border=true&background=0d1117&stroke=2575fc&ring=6a11cb&fire=6a11cb&currStreakLabel=2575fc" />
-</p>
+Every number on this page is a query you can run yourself. No badge service, nothing to 503:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorastar&layout=compact&hide_border=true&langs_count=8&title_color=2575fc&text_color=9f9f9f&bg_color=0d1117" />
-</p>
+```console
+$ gh api search/issues -f q='author:aryanorastar type:pr'
+
+pull requests authored .......... 192    across 20 repositories
+  ├ merged ...................... 120    110 of them into BasedHardware/omi
+  ├ open ........................  21    meshery, OpenHands, zulip, CCExtractor, AOSSIE
+  └ closed unmerged .............  51
+code reviews given ...............  51    omi 46 · meshery 2 · CCExtractor 1 · AOSSIE 2
+issues opened ....................  12
+contributions, last 12 months .... 970
+```
+
+<sub>No contribution-graph image here on purpose — GitHub already renders the real one directly
+below this README.</sub>
 
 ---
 
