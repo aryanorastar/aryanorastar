@@ -1,17 +1,17 @@
 <!-- ⚡ ARYAN GUPTA · github.com/aryanorastar ⚡ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Aryan%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Shipping%20real%20products&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Aryan%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20fix%20other%20people's%20production%20code&descAlignY=60&descSize=18" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+dApps+on+Internet+Computer+%26+Polkadot;Full-stack+dev+%7C+React%2C+Next%2C+React+Native;AI+%2B+MCP+%2B+LangChain+tinkerer;Hackathon+builder+%40+Thapar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2575FC&center=true&vCenter=true&width=700&lines=110%2B+PRs+merged+into+a+real+product+repo;macOS+desktop+%C2%B7+Python+backend+%C2%B7+CI+%C2%B7+web;I+don't+open+issues.+I+close+them.;B.Tech+CSE+%40+Thapar+%7C+open+to+paid+work" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanorastar&label=Profile%20views&color=2575fc&style=for-the-badge" alt="views" />
-  <a href="https://github.com/aryanorastar?tab=followers"><img src="https://img.shields.io/github/followers/aryanorastar?label=Followers&style=for-the-badge&color=6a11cb" /></a>
+  <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged"><img src="https://img.shields.io/badge/Merged_into_BasedHardware%2Fomi-110_PRs-2575fc?style=for-the-badge" /></a>
   <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-aryanexe-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/Hire_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,71 +20,92 @@
 
 ```ts
 const aryan = {
-  role: "Blockchain & Full-Stack Developer",
-  edu: "B.Tech CSE @ Thapar Institute (2024 → 2028)",
-  intern: "Blockchain Developer @ BlockseBlock (2025)",
-  focus: ["Web3 / ICP / Polkadot", "Full-stack", "AI · MCP · LangChain"],
-  currentlyBuilding: ["Omi (BasedHardware) OSS — 41+ merged PRs", "mandi-mcp", "IRON ATLAS"],
-  motto: "Solve real problems with clean, scalable code.",
+  role: "Full-stack + systems dev · OSS maintainer-adjacent",
+  edu:  "B.Tech CSE @ Thapar Institute (2024 → 2028)",
+  past: "Blockchain Developer intern @ BlockseBlock (2025)",
+  shipping: {
+    "BasedHardware/omi": "110 merged PRs — macOS desktop, Python backend, CI, web",
+    upstream: ["meshery", "OpenHands", "zulip-flutter", "CCExtractor", "AOSSIE"],
+    mine: ["Astar (screen-aware macOS voice agent)", "mandi-mcp", "ThaparGo"],
+  },
+  motto: "Reproduce it, then fix the cause — not the symptom.",
 };
 ```
 
-- 🔭 Shipping **decentralized apps** on the Internet Computer & Polkadot
-- ⚡ Turning **hackathon ideas** into real products (campus tools, health-AI, Web3)
-- 🧠 Deep-diving **AI agents, MCP servers & retrieval systems**
-- 🤝 Always down to collaborate — reach me below
+Most people's GitHub is a folder of things they started. **Mine is mostly other people's repos, and the PRs are merged.**
 
 ---
 
-## 💼 Open for hire (paid)
+## 📈 The one number that matters
 
-**Flutter / mobile reliability contractor or internship** — IST · ~10–15 hrs/week
+**110 pull requests merged into [BasedHardware/omi](https://github.com/BasedHardware/omi)** — a shipping AI-wearable product with a macOS app, a Python backend, a Next.js web app and a Flutter client. First PR: **19 Jul 2026**. So: ~110 merges in ~6 weeks, in a codebase I did not write.
 
-I ship production fixes on **[Omi / Based Hardware](https://github.com/BasedHardware/omi)** (AI wearable): **41+ merged PRs** across Flutter, BLE reconnect, offline sync, notifications, and CI.
+Where they landed:
+
+| Area | Merged | What that actually means |
+|---|---:|---|
+| 🖥️ **Desktop** (Swift · macOS/Windows) | 28 | transcription lifecycle, mic reconnect, Sparkle updates, window + permission bugs |
+| 📱 **App** (Flutter/Dart) | 21 | BLE GATT teardown, offline upload retries, FCM deep links, transcript seek |
+| 🐍 **Backend** (Python) | 14 | rate limits, fail-closed quota accounting, MCP search, timezone coercion |
+| ⚙️ **CI / release** | 12 | fail-closed pipelines, SA-key ratchets, restored unit + ratchet checks |
+| 🌐 **Web** (Next.js) | 7 | share-link host parity, deep links, live-transcript perf |
+| 🎧 **listen · sync · chat · mcp · dev-api** | 26 | websocket delivery, clock-offset dedupe on offline merge, scoped chat, `omi ask` CLI |
+
+<sub>Counts from merged-PR scope prefixes. Verify: <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged">the PR list itself</a>.</sub>
+
+Also open upstream right now: **meshery** ×3, **OpenHands**, **zulip-flutter**, **CCExtractor** (sample-platform, taskwarrior-flutter), **AOSSIE** (OrgExplorer, CarbonTracker, OpenVerifiableLLM, AutoInitialIssues), **Catrobat/Paintroid**.
+
+---
+
+## 💼 Open to paid work
+
+**Backend / desktop / full-stack reliability** — internship or contract · IST · ~10–15 hrs/week
+
+I'm useful on day one in a codebase you're tired of explaining. Give me a flaky test, a race condition, a CI pipeline that lies, or a bug report nobody can reproduce.
 
 | | |
 |---|---|
-| **Proof pack** | [gist](https://gist.github.com/aryanorastar/d8ff5b161c961e60e7bfb9a497a591aa) |
-| **Resume (PDF)** | [download](https://github.com/aryanorastar/aryan-proof-pack/raw/main/Aryan_Gupta_Flutter.pdf) |
-| **Hire page** | [aryan-proof-pack](https://github.com/aryanorastar/aryan-proof-pack) · [live site](https://aryanorastar.github.io/aryan-proof-pack/) |
+| **Proof pack** | [gist](https://gist.github.com/aryanorastar/d8ff5b161c961e60e7bfb9a497a591aa) · [live site](https://aryanorastar.github.io/aryan-proof-pack/) |
+| **Merged PR list** | [BasedHardware/omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged) |
 | **Email** | [aryangupts05@gmail.com](mailto:aryangupts05@gmail.com) |
+| **LinkedIn** | [aryan-gupta](https://www.linkedin.com/in/aryan-gupta-72a532211) |
 
+---
 
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,java,react,nextjs,tailwind,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,swift,dart,rust,cpp,java&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=solidity,expo,supabase,firebase,mongodb,postgres,fastapi,flask,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask,flutter,postgres,supabase,firebase,docker,gcp&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat-square&logo=internetcomputer&logoColor=white" />
   <img src="https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white" />
   <img src="https://img.shields.io/badge/Motoko-6a11cb?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Things I built from zero
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗳️ [EVote](https://github.com/aryanorastar/EVote)
-Decentralized governance platform on the **Internet Computer** — transparent, secure community decision-making.
-`Rust` `Motoko` `ICP` `React`
+### ✦ [Astar](https://github.com/aryanorastar/Astar)
+Screen-aware AI voice assistant for macOS — on-device OCR + Whisper, 5-provider fallback brain, MCP tools, one-DMG install.
+`Python` `MCP` `Whisper`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [ConnectUS](https://github.com/aryanorastar/ICP-Project)
-Censorship-resistant social network with **Internet Identity**, on-chain posts & token rewards.
-`Motoko` `React` `ICP`
+### 🌾 [mandi-mcp](https://github.com/aryanorastar/mandi-mcp)
+MCP server for live + historical Indian mandi prices — 3,000+ markets, 200+ commodities, via Agmarknet.
+`TypeScript` `MCP` `data.gov.in`
 
 </td>
 </tr>
@@ -92,21 +113,21 @@ Censorship-resistant social network with **Internet Identity**, on-chain posts &
 <td width="50%" valign="top">
 
 ### 🧭 [ThaparGo](https://github.com/aryanorastar/ThaparGo-web3)
-Campus navigation, scheduling & room-booking platform used at Thapar University. ⭐
+Campus navigation, timetable and room booking, actually used at Thapar.
 `React` `Supabase` `Web3`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [ThaparTracker](https://github.com/aryanorastar/ThaparTracker)
-Lost & found platform for campus — real-time search powered by Supabase. ⭐
-`JavaScript` `Supabase`
+### 🪪 [ID Vault](https://github.com/aryanorastar/id-vault)
+Decentralized identity + credential wallet on Polkadot, with selective disclosure.
+`TypeScript` `Polkadot`
 
 </td>
 </tr>
 </table>
 
-> 🧪 **Also cooking:** `mandi-mcp` (MCP server for 3,000+ Indian mandi markets) · `IRON ATLAS` (gym RPG tracker, React Native) · `ID Vault` (decentralized identity on Polkadot)
+> 🧪 **Also in the drawer:** `IRON ATLAS` (gym RPG tracker, React Native) · `Arogya Sentinel` (healthcare surge forecasting, MumbaiHacks 2025) · `EVote` + `ConnectUS` (ICP / Motoko, my Web3 era)
 
 ---
 
@@ -121,13 +142,7 @@ Lost & found platform for campus — real-time search powered by Supabase. ⭐
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorastar&layout=compact&hide_border=true&langs_count=8&title_color=2575fc&text_color=9f9f9f&bg_color=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanorastar&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
 ---
-
-## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-gupta-72a532211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
