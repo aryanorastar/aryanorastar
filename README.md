@@ -1,38 +1,59 @@
 <!-- ⚡ ARYAN GUPTA · github.com/aryanorastar ⚡ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Aryan%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20fix%20other%20people's%20production%20code&descAlignY=60&descSize=18" />
+```
+              :===--:--.                aryan@github
+             .+*****++**-               ───────────────────────────────────────────
+             =##***+===+*-              uptime     B.Tech CSE @ Thapar · 2024 → 2028
+             -#**#*++**+++:             kernel     Python · TypeScript · Swift · Dart · Rust
+              *****++=++=-              shell      zsh + Claude Code
+              :***#******:              wm         FastAPI · Next.js · Flutter · Node
+            .:*#***####*+=:.            packages   31 public repos
+        ..:=++%#***##**%*==--::
+     .:--:-+**##+++++=+%#*++++*=.       ──────────────  merged pull requests  ──────
+    :++**=+-+%%#*=====+#*%*++*#*+.      total      120   ·   110 into BasedHardware/omi
+   .*#**#**++##%%*====**=****####=      desktop     28   Swift · macOS + Windows
+   +%###%#******#%+=-:=+=***##%##*.     app         21   Flutter · BLE, offline sync, FCM
+  -%%%%#%%###****%+   -++***##%%%%:     backend     14   Python · quotas, MCP, rate limits
+ .#%%%%%%%%#*#####+   =*#%##%%%%%%=     ci          12   fail-closed release pipelines
+ =@%%%%%@%%%%%%%%%=...+#%%%%%@%%%%*     web          7   Next.js · deep links, perf
+.#@%%%@%@@%%%%%%%%-...=#%%%%%@@%%%+     other       26   listen · sync · chat · mcp · dev-api
+-%@%%%@@@%%%%%%%%#....=%%%%%@@%%%%#.    ────────────────────────────────────────────
+*@@%%%@@@@%%%%%%%+....=%@%%%@@%%%%%:
+#@@@%%@@@@@%%%%%%+----+%@%%@%%%%%%@=    open PRs   meshery · OpenHands · zulip · CCExtractor
+*@%%##%@@@@%%%%%%+====+#@%@%#***#%%:    builds     Astar · mandi-mcp · ThaparGo · ID Vault
+-#%#*+#@@@@@%%%%%======#@@@#*###%%-     since      19 Jul 2026  →  ~110 merges in 6 weeks
+ -##***@@@@@@%%@#+===:=#@@*=+*#%#-      status     open to paid work
+  -%#%%@@@@@@%%%===-::=*@#++*#%@+       contact    aryangupts05@gmail.com
+  .####@@@@@@%%%: .::=++#++*#%%%%=
+   +%**@@@@@@%%#*-..:-===***%%###%=                ███ ███ ███ ███ ███ ███ ███
+   =%#*%@@@@@@%#***+==*++*#%@%%####-
+   .####@@@@@@%%%%@%######%@%%%%#***:
+```
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2575FC&center=true&vCenter=true&width=700&lines=110%2B+PRs+merged+into+a+real+product+repo;macOS+desktop+%C2%B7+Python+backend+%C2%B7+CI+%C2%B7+web;I+don't+open+issues.+I+close+them.;B.Tech+CSE+%40+Thapar+%7C+open+to+paid+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=680&lines=110+PRs+merged+into+someone+else's+repo;desktop+%C2%B7+backend+%C2%B7+CI+%C2%B7+web+%E2%80%94+wherever+it+breaks;I+don't+open+issues.+I+close+them.;open+to+paid+work+%E2%80%94+scroll+down" alt="" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged"><img src="https://img.shields.io/badge/Merged_into_BasedHardware%2Fomi-110_PRs-2575fc?style=for-the-badge" /></a>
-  <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-aryanexe-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/Hire_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged"><img src="https://img.shields.io/badge/merged_into_BasedHardware%2Fomi-110_PRs-7dd3fc?style=flat-square&labelColor=0d1117" /></a>
+  <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/portfolio-aryanexe-c4b5fd?style=flat-square&labelColor=0d1117" /></a>
+  <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/hire_me-aryangupts05%40gmail.com-fca5a5?style=flat-square&labelColor=0d1117" /></a>
 </p>
 
 ---
 
 ## 🧑‍🚀 whoami
 
-```ts
-const aryan = {
-  role: "Full-stack + systems dev · OSS maintainer-adjacent",
-  edu:  "B.Tech CSE @ Thapar Institute (2024 → 2028)",
-  past: "Blockchain Developer intern @ BlockseBlock (2025)",
-  shipping: {
-    "BasedHardware/omi": "110 merged PRs — macOS desktop, Python backend, CI, web",
-    upstream: ["meshery", "OpenHands", "zulip-flutter", "CCExtractor", "AOSSIE"],
-    mine: ["Astar (screen-aware macOS voice agent)", "mandi-mcp", "ThaparGo"],
-  },
-  motto: "Reproduce it, then fix the cause — not the symptom.",
-};
-```
+Most people's GitHub is a folder of things they started.
+**Mine is mostly other people's repos — and the pull requests are merged.**
 
-Most people's GitHub is a folder of things they started. **Mine is mostly other people's repos, and the PRs are merged.**
+I'm a B.Tech CSE student at Thapar (2024 → 2028), ex blockchain-dev intern at BlockseBlock, and for the
+last six weeks my main hobby has been walking into a production codebase I didn't write and closing
+bugs in it — Swift on macOS, Python on the backend, Next.js on the web, and the CI that ties it together.
+
+> `reproduce it → find the cause → fix it once, where every caller routes through`
 
 ---
 
@@ -149,5 +170,3 @@ Decentralized identity + credential wallet on Polkadot, with selective disclosur
   <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
