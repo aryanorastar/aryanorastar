@@ -1,7 +1,7 @@
 <!-- ⚡ ARYAN GUPTA · github.com/aryanorastar ⚡ -->
 
 ```
-              :===--:--.                aryan@github
+              :===--:--.                github.com/aryanorastar
              .+*****++**-               ───────────────────────────────────────────
              =##***+===+*-              uptime     B.Tech CSE @ Thapar · 2024 → 2028
              -#**#*++**+++:             kernel     Python · TypeScript · Swift · Dart · Rust
