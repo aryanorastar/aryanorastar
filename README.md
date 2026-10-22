@@ -59,7 +59,7 @@ bugs in it — Swift on macOS, Python on the backend, Next.js on the web, and th
 
 ## 📈 The one number that matters
 
-**110 pull requests merged into [BasedHardware/omi](https://github.com/BasedHardware/omi)** — a shipping AI-wearable product with a macOS app, a Python backend, a Next.js web app and a Flutter client. First PR: **19 Jul 2026**. So: ~110 merges in ~6 weeks, in a codebase I did not write.
+**200+ pull requests merged into [BasedHardware/omi](https://github.com/BasedHardware/omi)** — a shipping AI-wearable product with a macOS app, a Python backend, a Next.js web app and a Flutter client. First PR: **19 Jul 2026**. So: ~110 merges in ~6 weeks, in a codebase I did not write.
 
 Where they landed:
 
