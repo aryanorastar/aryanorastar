@@ -1,180 +1,98 @@
-<!-- ⚡ ARYAN GUPTA · github.com/aryanorastar ⚡ -->
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/masthead-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/masthead-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <img src="assets/masthead.svg" width="1200" alt="Aryan Gupta — AI engineer at Omi. Agents, apps and systems.">
+</picture>
 
-```
-              :===--:--.                github.com/aryanorastar
-             .+*****++**-               ───────────────────────────────────────────
-             =##***+===+*-              uptime     B.Tech CSE @ Thapar · 2024 → 2028
-             -#**#*++**+++:             kernel     Python · TypeScript · Swift · Dart · Rust
-              *****++=++=-              shell      zsh + Claude Code
-              :***#******:              wm         FastAPI · Next.js · Flutter · Node
-            .:*#***####*+=:.            packages   31 public repos
-        ..:=++%#***##**%*==--::
-     .:--:-+**##+++++=+%#*++++*=.       ──────────────  merged pull requests  ──────
-    :++**=+-+%%#*=====+#*%*++*#*+.      total      120   ·   110 into BasedHardware/omi
-   .*#**#**++##%%*====**=****####=      desktop     28   Swift · macOS + Windows
-   +%###%#******#%+=-:=+=***##%##*.     app         21   Flutter · BLE, offline sync, FCM
-  -%%%%#%%###****%+   -++***##%%%%:     backend     14   Python · quotas, MCP, rate limits
- .#%%%%%%%%#*#####+   =*#%##%%%%%%=     ci          12   fail-closed release pipelines
- =@%%%%%@%%%%%%%%%=...+#%%%%%@%%%%*     web          7   Next.js · deep links, perf
-.#@%%%@%@@%%%%%%%%-...=#%%%%%@@%%%+     other       26   listen · sync · chat · mcp · dev-api
--%@%%%@@@%%%%%%%%#....=%%%%%@@%%%%#.    reviews     51   code reviews given across 5 repos
-*@@%%%@@@@%%%%%%%+....=%@%%%@@%%%%%:    ────────────────────────────────────────────
-#@@@%%@@@@@%%%%%%+----+%@%%@%%%%%%@=
-*@%%##%@@@@%%%%%%+====+#@%@%#***#%%:    open PRs   meshery · OpenHands · zulip · CCExtractor
--#%#*+#@@@@@%%%%%======#@@@#*###%%-     builds     Astar · mandi-mcp · ThaparGo · ID Vault
- -##***@@@@@@%%@#+===:=#@@*=+*#%#-      since      19 Jul 2026  →  ~110 merges in 6 weeks
-  -%#%%@@@@@@%%%===-::=*@#++*#%@+       status     open to paid work
-  .####@@@@@@%%%: .::=++#++*#%%%%=      contact    aryangupts05@gmail.com
-   +%**@@@@@@%%#*-..:-===***%%###%=
-   =%#*%@@@@@@%#***+==*++*#%@%%####-               ███ ███ ███ ███ ███ ███ ███
-   .####@@@@@@%%%%@%######%@%%%%#***:
-```
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=680&lines=110+PRs+merged+into+someone+else's+repo;desktop+%C2%B7+backend+%C2%B7+CI+%C2%B7+web+%E2%80%94+wherever+it+breaks;I+don't+open+issues.+I+close+them.;open+to+paid+work+%E2%80%94+scroll+down" alt="" />
-  </a>
+<p>
+  <a href="#work-you-can-inspect">Selected work</a> &nbsp; / &nbsp;
+  <a href="#built-from-scratch">Personal projects</a> &nbsp; / &nbsp;
+  <a href="https://aryanexe.netlify.app">Portfolio</a> &nbsp; / &nbsp;
+  <a href="mailto:aryangupts05@gmail.com">Say hello ↗</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged"><img src="https://img.shields.io/badge/merged_into_BasedHardware%2Fomi-110_PRs-7dd3fc?style=flat-square&labelColor=0d1117" /></a>
-  <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/portfolio-aryanexe-c4b5fd?style=flat-square&labelColor=0d1117" /></a>
-  <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/hire_me-aryangupts05%40gmail.com-fca5a5?style=flat-square&labelColor=0d1117" /></a>
-</p>
+# I build AI products—and the systems people depend on.
+
+I'm **Aryan**, an AI engineer at **[Omi](https://github.com/BasedHardware/omi)** and a Computer Science student at **Thapar, class of 2028**. I work across agent behavior, native apps and backend reliability: the handoffs, retries and edge cases between a feature and something a person can trust.
+
+My favourite kind of work starts with a real user problem and ends with a change you can inspect.
+
+**[255 merged PRs in Omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+is%3Amerged+author%3Aaryanorastar)** · **[306 merged public PRs overall](https://github.com/search?q=author%3Aaryanorastar+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests)**
+
+<sub>A dated snapshot, checked 31 October 2026. These count merged pull requests, not deployments or customer outcomes. The links open the current evidence.</sub>
+
+## Work you can inspect
+
+### A recording should survive the handoff.
+
+**[Watch recording recovery → Omi #22059](https://github.com/BasedHardware/omi/pull/22059)**
+
+Keep original Watch audio until the iPhone has persisted an account-owned copy and acknowledged its digest. Handle late files, restarts and retries through a separate recovery path without restarting the microphone.
+
+<sub>Swift · Flutter · Python &nbsp; / &nbsp; durable receipts, account binding, interrupted-write recovery</sub>
+
+### An answer should have something behind it.
+
+**[Saved-transcript search and recall evidence → Omi #23792](https://github.com/BasedHardware/omi/pull/23792)**
+
+Search saved speech without requiring a new transcript index. Keep reads bounded, respect corrections and privacy, and withhold unsupported follow-on answers after an explicit transcript search returns no evidence.
+
+<sub>Python · retrieval · agent behavior &nbsp; / &nbsp; scoped cursors, deadlines, evidence gates</sub>
+
+### A retry should not become a second subscription.
+
+**[Checkout-first subscription protection → Omi #22552](https://github.com/BasedHardware/omi/pull/22552)**
+
+Verify an existing Stripe subscription before allowing fresh checkout—even when the local plan projection is stale. Return a conflict or retryable failure when the existing subscription cannot safely permit another checkout.
+
+<sub>Python · FastAPI · Stripe &nbsp; / &nbsp; reconciliation, fail-closed writes, regression tests</sub>
+
+<details>
+<summary><strong>More of the work behind the profile</strong></summary>
+
+- **[Mobile task delivery and safe recovery](https://github.com/BasedHardware/omi/pull/22841)** — canonical task acceptance, durable receipts and stale-response protection across Flutter and the backend.
+- **[Offline audio export in background workers](https://github.com/BasedHardware/omi/pull/23497)** — a contributor collaboration with [@ocakciomursel-pixel](https://github.com/ocakciomursel-pixel); shared streaming decode, bounded buffers and atomic export publication.
+- **[All merged public changes](https://github.com/search?q=author%3Aaryanorastar+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests)** — the complete list, with review discussions and verification details.
+
+These are merged engineering contributions. Release state and customer-specific recovery are separate; the linked PRs record their verification and limits.
+
+</details>
+
+## Built from scratch
+
+### [Astar ↗](https://github.com/aryanorastar/Astar)
+
+A screen-aware voice assistant for macOS. Local OCR and speech recognition feed a tool-calling workflow for working with apps, developer commands and conversation history.
+
+**Python · Apple Vision · Whisper · MCP**<br>
+[Explore the code](https://github.com/aryanorastar/Astar) · [See the interface](https://github.com/aryanorastar/Astar#what-it-does)
+
+### [Agent Reliability Lab ↗](https://github.com/aryanorastar/agent-reliability-lab)
+
+Small, executable demonstrations of a question I care about: **did the agent actually complete the action it claimed?** Outcome checks, duplicate and late events, and approval-bound retry receipts with a localhost HTTP service and SQLite.
+
+**Python · SQLite · synthetic traces**<br>
+[Run the demos](https://github.com/aryanorastar/agent-reliability-lab#run-in-one-minute) · [Read the limits](https://github.com/aryanorastar/agent-reliability-lab#limits-that-matter)
+
+<sub>An independent prototype using synthetic data—not a benchmark or a claim about defects in another company's product.</sub>
+
+### [ThaparGo ↗](https://github.com/aryanorastar/ThaparGo-web3)
+
+A campus platform bringing navigation, timetables, room bookings and societies into one place. An earlier project in connecting the interface to the workflow behind it.
+
+**React · Supabase · Internet Computer**
+
+## How I work
+
+**Reproduce → trace the boundary → fix the shared path → verify the failure.**
+
+I like readable code, evidence that survives a retry, and fixes that account for the next caller too. My day-to-day spans **Python / FastAPI**, **Swift**, **Dart / Flutter** and **TypeScript / React**.
+
+If you're building an AI product and need someone who will follow a problem across the stack, I'd like to hear what you're working on.
+
+**[Email me](mailto:aryangupts05@gmail.com)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/aryangupta45/)** &nbsp; / &nbsp; **[Portfolio](https://aryanexe.netlify.app)**
 
 ---
 
-## 🧑‍🚀 whoami
-
-Most people's GitHub is a folder of things they started.
-**Mine is mostly other people's repos — and the pull requests are merged.**
-
-I'm a B.Tech CSE student at Thapar (2024 → 2028), ex blockchain-dev intern at BlockseBlock, and for the
-last six weeks my main hobby has been walking into a production codebase I didn't write and closing
-bugs in it — Swift on macOS, Python on the backend, Next.js on the web, and the CI that ties it together.
-
-> `reproduce it → find the cause → fix it once, where every caller routes through`
-
----
-
-## 📈 The one number that matters
-
-**200+ pull requests merged into [BasedHardware/omi](https://github.com/BasedHardware/omi)** — a shipping AI-wearable product with a macOS app, a Python backend, a Next.js web app and a Flutter client. First PR: **19 Jul 2026**. So: ~110 merges in ~6 weeks, in a codebase I did not write.
-
-Where they landed:
-
-| Area | Merged | What that actually means |
-|---|---:|---|
-| 🖥️ **Desktop** (Swift · macOS/Windows) | 28 | transcription lifecycle, mic reconnect, Sparkle updates, window + permission bugs |
-| 📱 **App** (Flutter/Dart) | 21 | BLE GATT teardown, offline upload retries, FCM deep links, transcript seek |
-| 🐍 **Backend** (Python) | 14 | rate limits, fail-closed quota accounting, MCP search, timezone coercion |
-| ⚙️ **CI / release** | 12 | fail-closed pipelines, SA-key ratchets, restored unit + ratchet checks |
-| 🌐 **Web** (Next.js) | 7 | share-link host parity, deep links, live-transcript perf |
-| 🎧 **listen · sync · chat · mcp · dev-api** | 26 | websocket delivery, clock-offset dedupe on offline merge, scoped chat, `omi ask` CLI |
-
-<sub>Counts from merged-PR scope prefixes. Verify: <a href="https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged">the PR list itself</a>.</sub>
-
-Also open upstream right now: **meshery** ×3, **OpenHands**, **zulip-flutter**, **CCExtractor** (sample-platform, taskwarrior-flutter), **AOSSIE** (OrgExplorer, CarbonTracker, OpenVerifiableLLM, AutoInitialIssues), **Catrobat/Paintroid**.
-
----
-
-## 💼 Open to paid work
-
-**Backend / desktop / full-stack reliability** — internship or contract · IST · ~10–15 hrs/week
-
-I'm useful on day one in a codebase you're tired of explaining. Give me a flaky test, a race condition, a CI pipeline that lies, or a bug report nobody can reproduce.
-
-| | |
-|---|---|
-| **Proof pack** | [gist](https://gist.github.com/aryanorastar/d8ff5b161c961e60e7bfb9a497a591aa) · [live site](https://aryanorastar.github.io/aryan-proof-pack/) |
-| **Merged PR list** | [BasedHardware/omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Aaryanorastar+is%3Amerged) |
-| **Email** | [aryangupts05@gmail.com](mailto:aryangupts05@gmail.com) |
-| **LinkedIn** | [aryan-gupta](https://www.linkedin.com/in/aryan-gupta-72a532211) |
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,swift,dart,rust,cpp,java&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask,flutter,postgres,supabase,firebase,docker,gcp&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat-square&logo=internetcomputer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motoko-6a11cb?style=flat-square&logoColor=white" />
-</p>
-
----
-
-## 🚀 Things I built from zero
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✦ [Astar](https://github.com/aryanorastar/Astar)
-Screen-aware AI voice assistant for macOS — on-device OCR + Whisper, 5-provider fallback brain, MCP tools, one-DMG install.
-`Python` `MCP` `Whisper`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [mandi-mcp](https://github.com/aryanorastar/mandi-mcp)
-MCP server for live + historical Indian mandi prices — 3,000+ markets, 200+ commodities, via Agmarknet.
-`TypeScript` `MCP` `data.gov.in`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 [ThaparGo](https://github.com/aryanorastar/ThaparGo-web3)
-Campus navigation, timetable and room booking, actually used at Thapar.
-`React` `Supabase` `Web3`
-
-</td>
-<td width="50%" valign="top">
-
-### 🪪 [ID Vault](https://github.com/aryanorastar/id-vault)
-Decentralized identity + credential wallet on Polkadot, with selective disclosure.
-`TypeScript` `Polkadot`
-
-</td>
-</tr>
-</table>
-
-> 🧪 **Also in the drawer:** `IRON ATLAS` (gym RPG tracker, React Native) · `Arogya Sentinel` (healthcare surge forecasting, MumbaiHacks 2025) · `EVote` + `ConnectUS` (ICP / Motoko, my Web3 era)
-
----
-
-## 📊 Activity, counted rather than badged
-
-Every number on this page is a query you can run yourself. No badge service, nothing to 503:
-
-```console
-$ gh api search/issues -f q='author:aryanorastar type:pr'
-
-pull requests authored .......... 192    across 20 repositories
-  ├ merged ...................... 120    110 of them into BasedHardware/omi
-  ├ open ........................  21    meshery, OpenHands, zulip, CCExtractor, AOSSIE
-  └ closed unmerged .............  51
-code reviews given ...............  51    omi 46 · meshery 2 · CCExtractor 1 · AOSSIE 2
-issues opened ....................  12
-contributions, last 12 months .... 970
-```
-
-<sub>No contribution-graph image here on purpose — GitHub already renders the real one directly
-below this README.</sub>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-gupta-72a532211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://aryanexe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aryangupts05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<sub>Custom SVGs, native Markdown, public evidence. [How this profile is built](MAINTENANCE.md).</sub>
