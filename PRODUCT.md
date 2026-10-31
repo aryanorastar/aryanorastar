@@ -30,6 +30,8 @@ Rendered inside GitHub's profile README. GitHub controls the outer layout and sa
 ## Brand Commitments
 Aryan Gupta; GitHub handle aryanorastar. User asks for an unusually distinctive profile. The user delegated the implementation through direct SVG and Markdown authoring.
 
+User-added references: github.com/maziyarpanahi and github.com/Mahmud0808. Use their clear public-work hierarchy, visible activity and support discoverability as references while retaining a distinct identity. The user explicitly supplied and authorized the public Wise support link https://wise.com/pay/business/aryangupta7. GitHub Sponsors listing is public, verified through GitHub GraphQL. No donation transaction, financial setup or recurring automation is in scope.
+
 ## Evidence on Hand
 - Existing README and public profile.
 - Public repository metadata and merged PRs, checked on 2026-10-31.

@@ -55,3 +55,16 @@ for mobile in (False, True):
         name = 'masthead' + ('-mobile' if mobile else '') + ('-dark' if dark else '') + '.svg'
         (ROOT / 'assets' / name).write_text(masthead(mobile, dark))
         print('built assets/' + name)
+
+
+for name, label, bg, fg in [
+    ('wise', 'Support via Wise', '#D8F5B1', '#14200D'),
+    ('github', 'GitHub Sponsors', '#263FE8', '#F7F9F2'),
+]:
+    button = '<svg xmlns="http://www.w3.org/2000/svg" width="320" height="70" viewBox="0 0 320 70" role="img">'
+    button += f'<title>{escape(label)}</title><path fill="{bg}" d="M0 0H320V70H0z"/>'
+    button += lettering(label, 20, 44, 25, fg, 248)
+    button += f'<path d="M278 24h18v18m0-18-20 20" fill="none" stroke="{fg}" stroke-width="2.5"/>'
+    button += '</svg>'
+    (ROOT / 'assets' / f'support-{name}.svg').write_text(button)
+    print('built assets/support-' + name + '.svg')

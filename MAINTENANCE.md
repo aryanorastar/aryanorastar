@@ -23,6 +23,10 @@ gh api -X GET search/issues -f q='author:aryanorastar is:pr is:merged is:public'
 
 Feature only public repositories. Verify authorship, merge state and scope before adding a contribution; credit collaborators. A merge does not prove deployment, adoption or customer recovery.
 
+## Support links
+
+The public Wise link was supplied by Aryan. GitHub's Sponsors listing was verified public on 2026-10-31. Keep README buttons and `.github/FUNDING.yml` consistent. These are outbound support links; this repository never creates or processes a payment.
+
 ## Verification
 
 Check SVG XML, image paths, readable mobile/desktop rendering, dark/light appearances, reduced motion, links and factual claims. Preserve a screenshot of major visual changes. Git history keeps earlier versions.

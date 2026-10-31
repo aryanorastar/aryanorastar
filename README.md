@@ -9,6 +9,7 @@
   <a href="#work-you-can-inspect">Selected work</a> &nbsp; / &nbsp;
   <a href="#built-from-scratch">Personal projects</a> &nbsp; / &nbsp;
   <a href="https://aryanexe.netlify.app">Portfolio</a> &nbsp; / &nbsp;
+  <a href="#support-the-work">Support the work</a> &nbsp; / &nbsp;
   <a href="mailto:aryangupts05@gmail.com">Say hello ↗</a>
 </p>
 
@@ -18,9 +19,11 @@ I'm **Aryan**, an AI engineer at **[Omi](https://github.com/BasedHardware/omi)**
 
 My favourite kind of work starts with a real user problem and ends with a change you can inspect.
 
+At Omi, I also work on **[Mira](https://github.com/BasedHardware/omi-vector-bot)**, our AI support assistant: official-source answers, private staff handoffs and reviewed engineering follow-up.
+
 **[255 merged PRs in Omi](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+is%3Amerged+author%3Aaryanorastar)** · **[306 merged public PRs overall](https://github.com/search?q=author%3Aaryanorastar+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests)**
 
-<sub>A dated snapshot, checked 31 October 2026. These count merged pull requests, not deployments or customer outcomes. The links open the current evidence.</sub>
+<sub>Public merged-PR snapshot · checked 31 October 2026 · follow either link for the current list.</sub>
 
 ## Work you can inspect
 
@@ -92,6 +95,17 @@ I like readable code, evidence that survives a retry, and fixes that account for
 If you're building an AI product and need someone who will follow a problem across the stack, I'd like to hear what you're working on.
 
 **[Email me](mailto:aryangupts05@gmail.com)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/aryangupta45/)** &nbsp; / &nbsp; **[Portfolio](https://aryanexe.netlify.app)**
+
+## Support the work
+
+If something I've built or fixed has been useful to you, you can support my open-source work.
+
+<p>
+  <a href="https://wise.com/pay/business/aryangupta7"><img src="assets/support-wise.svg" width="224" height="49" alt="Support Aryan via Wise"></a>
+  <a href="https://github.com/sponsors/aryanorastar"><img src="assets/support-github.svg" width="224" height="49" alt="Sponsor Aryan on GitHub"></a>
+</p>
+
+You can also help by trying a project, reporting a reproducible bug, or contributing a fix.
 
 ---
 
