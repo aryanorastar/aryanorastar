@@ -1,6 +1,6 @@
 # Maintaining this profile
 
-Native Markdown carries content and links; self-contained SVGs carry the nameplate. No badge server, tracking pixel, script, API key or scheduled workflow is required.
+Native Markdown carries content and links; self-contained SVGs carry the header, workflow diagrams, project showcases, technology icons and contact/support controls. No badge server, tracking pixel, script, API key or scheduled workflow is required.
 
 ## Rebuild the SVGs
 
@@ -14,7 +14,7 @@ Archivo comes from [Google Fonts](https://github.com/google/fonts/tree/main/ofl/
 
 ## Evidence and counts
 
-Refresh the counts and date together:
+Refresh `assets/public-work.json`, the README alt text and date together, then rebuild the SVGs:
 
 ```sh
 gh api -X GET search/issues -f q='repo:BasedHardware/omi author:aryanorastar is:pr is:merged' --jq .total_count
@@ -22,6 +22,8 @@ gh api -X GET search/issues -f q='author:aryanorastar is:pr is:merged is:public'
 ```
 
 Feature only public repositories. Verify authorship, merge state and scope before adding a contribution; credit collaborators. A merge does not prove deployment, adoption or customer recovery.
+
+Technology marks are vendored from Simple Icons with their CC0 license under `assets/icons`. The header and workflow shapes are authored geometry, not product screenshots. The workflow illustrations explain engineering boundaries rather than claiming a particular production result.
 
 ## Support links
 

@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-31",
+  "omi_merged_prs": 255,
+  "public_merged_prs": 307,
+  "omi_query": "repo:BasedHardware/omi author:aryanorastar is:pr is:merged",
+  "public_query": "author:aryanorastar is:pr is:merged is:public",
+  "meaning": "Authored merged PR counts, not deployments, adoption or customer outcomes."
+}

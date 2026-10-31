@@ -1,171 +1,233 @@
 ---
 name: Aryan Gupta GitHub Profile
-description: Outlined typographic identity with native GitHub reading surfaces.
+description: Connected engineering stories in self-contained SVG artwork and native GitHub Markdown.
 colors:
-  cobalt-nameplate: "#263FE8"
-  cobalt-nameplate-dark: "#1D2FD0"
-  mint-signal: "#D8F5B1"
-  ivory-lettering: "#F7F9F2"
-  support-ink: "#14200D"
+  signal-mint: "#8FE3CF"
+  verification-coral: "#FFAD94"
+  campus-periwinkle: "#A9BFFF"
+  ink-ground: "#0D1117"
+  work-panel: "#141C26"
+  header-ground: "#111A25"
+  mira-ground: "#231F27"
+  cloud-lettering: "#F1F5F9"
+  supporting-text: "#B2C1D1"
+  connector-edge: "#344357"
+  email-ground: "#243C3C"
+  linkedin-ground: "#243444"
+  linkedin-lettering: "#D7E7F7"
+  portfolio-ground: "#3F302E"
+  portfolio-lettering: "#FFD0C0"
+  wise-ground: "#9FE870"
+  wise-lettering: "#163300"
+  sponsors-ground: "#392C39"
+  sponsors-lettering: "#F6CAE8"
 typography:
   display:
     fontFamily: Archivo
-    fontSize: "238px"
-    fontWeight: 850
+    fontSize: "48px"
+    fontWeight: 650
   display-mobile:
     fontFamily: Archivo
-    fontSize: "130px"
-    fontWeight: 850
-  label:
+    fontSize: "39px"
+    fontWeight: 650
+  showcase-title:
     fontFamily: Archivo
-    fontSize: "24px"
-    fontWeight: 850
-  label-mobile-footer:
+    fontSize: "42px"
+    fontWeight: 650
+  project-title:
     fontFamily: Archivo
-    fontSize: "22px"
-    fontWeight: 850
-  support-label:
+    fontSize: "28px"
+    fontWeight: 600
+  artwork-body:
     fontFamily: Archivo
-    fontSize: "25px"
-    fontWeight: 850
+    fontSize: "20px"
+    fontWeight: 450
+  diagram-label:
+    fontFamily: Archivo
+    fontSize: "17px"
+    fontWeight: 450
+  control-label:
+    fontFamily: Archivo
+    fontSize: "16px"
+    fontWeight: 600
 rounded:
-  square: "0px"
+  panel: "16px"
+  control: "12px"
 components:
-  masthead-desktop:
-    backgroundColor: "{colors.cobalt-nameplate}"
-    textColor: "{colors.ivory-lettering}"
+  header:
+    backgroundColor: "{colors.header-ground}"
+    textColor: "{colors.cloud-lettering}"
     typography: "{typography.display}"
-    rounded: "{rounded.square}"
-    width: "1200px"
-    height: "470px"
-  masthead-desktop-dark:
-    backgroundColor: "{colors.cobalt-nameplate-dark}"
-    textColor: "{colors.ivory-lettering}"
-    typography: "{typography.display}"
-    rounded: "{rounded.square}"
-    width: "1200px"
-    height: "470px"
-  masthead-mobile:
-    backgroundColor: "{colors.cobalt-nameplate}"
-    textColor: "{colors.ivory-lettering}"
+    rounded: "{rounded.panel}"
+    width: "960px"
+    height: "300px"
+  header-mobile:
+    backgroundColor: "{colors.header-ground}"
+    textColor: "{colors.cloud-lettering}"
     typography: "{typography.display-mobile}"
-    rounded: "{rounded.square}"
+    rounded: "{rounded.panel}"
     width: "480px"
-    height: "480px"
-  masthead-mobile-dark:
-    backgroundColor: "{colors.cobalt-nameplate-dark}"
-    textColor: "{colors.ivory-lettering}"
-    typography: "{typography.display-mobile}"
-    rounded: "{rounded.square}"
-    width: "480px"
-    height: "480px"
+    height: "282px"
+  work-omi:
+    backgroundColor: "{colors.work-panel}"
+    textColor: "{colors.cloud-lettering}"
+    typography: "{typography.showcase-title}"
+    rounded: "{rounded.panel}"
+    width: "960px"
+    height: "248px"
+  work-mira:
+    backgroundColor: "{colors.mira-ground}"
+    textColor: "{colors.cloud-lettering}"
+    typography: "{typography.showcase-title}"
+    rounded: "{rounded.panel}"
+    width: "960px"
+    height: "248px"
+  project-panel:
+    backgroundColor: "{colors.work-panel}"
+    textColor: "{colors.cloud-lettering}"
+    typography: "{typography.project-title}"
+    rounded: "{rounded.panel}"
+    width: "960px"
+    height: "166px"
+  contact-email:
+    backgroundColor: "{colors.email-ground}"
+    textColor: "{colors.signal-mint}"
+    typography: "{typography.control-label}"
+    rounded: "{rounded.control}"
+    width: "154px"
+    height: "46px"
+  contact-linkedin:
+    backgroundColor: "{colors.linkedin-ground}"
+    textColor: "{colors.linkedin-lettering}"
+    typography: "{typography.control-label}"
+    rounded: "{rounded.control}"
+    width: "154px"
+    height: "46px"
+  contact-portfolio:
+    backgroundColor: "{colors.portfolio-ground}"
+    textColor: "{colors.portfolio-lettering}"
+    typography: "{typography.control-label}"
+    rounded: "{rounded.control}"
+    width: "154px"
+    height: "46px"
   support-wise:
-    backgroundColor: "{colors.mint-signal}"
-    textColor: "{colors.support-ink}"
-    typography: "{typography.support-label}"
-    rounded: "{rounded.square}"
-    width: "224px"
-    height: "49px"
+    backgroundColor: "{colors.wise-ground}"
+    textColor: "{colors.wise-lettering}"
+    typography: "{typography.control-label}"
+    rounded: "{rounded.control}"
+    width: "218px"
+    height: "46px"
   support-github:
-    backgroundColor: "{colors.cobalt-nameplate}"
-    textColor: "{colors.ivory-lettering}"
-    typography: "{typography.support-label}"
-    rounded: "{rounded.square}"
-    width: "224px"
-    height: "49px"
+    backgroundColor: "{colors.sponsors-ground}"
+    textColor: "{colors.sponsors-lettering}"
+    typography: "{typography.control-label}"
+    rounded: "{rounded.control}"
+    width: "218px"
+    height: "46px"
 ---
 
 # Design System: Aryan Gupta GitHub Profile
 
 ## Overview
 
-**Creative North Star: "The Type Specimen"**
+**Creative North Star: "The Connected Workbench"**
 
-A confident typographic identity sits inside GitHub's familiar reading surface. Large outlined Archivo lettering, cobalt fields and an open mint mark establish recognition; the surrounding Markdown lets visitors inspect work and follow direct links with little visual friction.
+An ink-ground developer profile connects Aryan's identity to inspectable engineering work. Cloud lettering, seafoam paths and coral checkpoints carry a continuous visual language through the greeting, project stories, toolkit and contact controls. Distinct compositions give each project its own explanation within that shared language.
 
-The system is flat, graphic and self-contained. Vector geometry supplies the identity; GitHub supplies reading typography, spacing and interaction states. The implemented surface composition remains in `.impeccable/surface.md`.
+Artwork is authored vector geometry; reading content and interactions belong to GitHub. The two supplied developer-profile references inform visible work, activity and support discovery. Surface composition and the review record live in `.impeccable/surface.md`.
 
 **Key Characteristics:**
-- Outlined lettering with no remote font dependency.
-- Cobalt, ivory and mint with explicit light and dark asset variants.
-- Separate desktop and mobile artwork.
-- Native GitHub reading and interaction patterns.
+- Outlined Archivo lettering and bundled icon geometry.
+- Dark, self-contained artwork across GitHub appearances.
+- Explanatory diagrams with distinct desktop and mobile compositions.
+- Native Markdown evidence and ordinary linked images.
 
-Extracted from `tools/build_assets.py` and `README.md` on 31 October 2026. The initial identity's independent finish-review handoff was **ship**, covering source and actual GitHub desktop/mobile dark captures. Light variants and subsequent support-link additions are documented from source; this document does not claim their rendered verification or broader website certification.
+Extracted from `tools/build_assets.py`, `assets/*.svg` and `README.md` on 31 October 2026. V2's finish review permits the local preview; publication awaits user review. Preview evidence uses GitHub Markdown API sanitized HTML in a local GitHub-style wrapper at desktop CSS width (1440px) and mobile width (390px). Exact live GitHub surrounding layout, light appearance and motion-preference behavior remain unverified.
 
 ## Colors
 
-Saturated cobalt carries the identity, pale mint marks the signal, and warm ivory carries the lettering.
+A dark neutral foundation supports two main signals; project and destination colors supply restrained local distinctions. The frontmatter owns the extracted values.
 
 ### Primary
-- **Specimen Cobalt** (`cobalt-nameplate`): default/light nameplate and GitHub support-link field.
-- **Night Cobalt** (`cobalt-nameplate-dark`): nameplate field for the dark asset.
+- **Signal Mint** (`signal-mint`): agent/app paths, Omi and Astar details, the first activity figure and email lettering.
 
 ### Secondary
-- **Signal Mint** (`mint-signal`): open geometric marks, selected role/footer lettering and the Wise support-link field.
+- **Verification Coral** (`verification-coral`): backend checkpoints, Mira, the lab's claim row and the second activity figure.
+- **Campus Periwinkle** (`campus-periwinkle`): ThaparGo's map nodes and outbound arrow.
 
 ### Neutral
-- **Lettering Ivory** (`ivory-lettering`): identity lettering, the thin signal trace and GitHub support-link lettering/arrow.
-- **Support Ink** (`support-ink`): Wise support-link lettering and arrow on mint.
+- **Ink Ground**, **Work Panel** and **Header Ground**: the toolkit base, project surfaces and greeting field.
+- **Mira Ground**: a warmer dark surface distinguishing the support-assistant story.
+- **Cloud Lettering** and **Supporting Text**: titles and primary statements versus descriptions and diagram labels.
+- **Connector Edge**: quiet workflow paths, dividers and node outlines.
 
-**The Palette Roles Rule.** Keep both nameplate variants tied to their source tokens; GitHub owns surrounding content colors.
+Contact and support color pairs are scoped to their matching controls. Wise retains its bright destination color; Sponsors uses plum and pink. The toolkit's individual icon tints and the header's mint-to-blue-to-coral route remain source-local artwork details, not a reusable semantic scale. Sidecar tonal ramps are panel aids, not additional shipped colors.
 
-The sidecar's tonal ramps are synthesized panel swatches, not additional shipped palette tokens.
+**The Contained Artwork Rule.** Keep dark fills inside each SVG; let GitHub control the surrounding page's appearance.
 
 ## Typography
 
-**Display Font:** Archivo, bundled under the OFL and instantiated at width (100), then converted to filled SVG paths. The frontmatter sizes are builder inputs; `max_width` may reduce the effective scale to fit the artwork. These are solid glyph outlines, not stroked letterforms.
+**Artwork Font:** Archivo, bundled under the OFL, instantiated at width (100) with weights (450, 600, 650), and converted to filled glyph paths. The frontmatter gives representative source-canvas roles; the builder retains composition-specific sizes. These are solid glyph silhouettes, not stroked lettering.
 
-**Body Font:** GitHub's native rendered Markdown typography. No custom body family, scale, line height or spacing tokens are authored here.
+The hierarchy moves from the compact greeting to showcase names, project titles, descriptions and small diagram labels. Mobile showcase names use a smaller size (38px); project titles use (27px). Native GitHub headings, prose, links and subtext provide the surrounding reading hierarchy. No custom body font, line-height scale or browser font fallback is shipped.
 
-The desktop and mobile display roles establish identity. The identity label roles carry the uppercase role and subject line; the support label uses mixed-case lettering. Native Markdown headings, paragraphs, emphasis and subtext establish the reading hierarchy below the artwork.
-
-**The Native Reading Rule.** Use outlined Archivo only inside authored SVGs; leave reading text, link interaction and spacing to GitHub.
+**The Native Reading Rule.** Use outlined Archivo inside SVGs and keep the inspectable narrative in native Markdown.
 
 ## Layout
 
-The nameplate uses the intrinsic dimensions in the component tokens and scales with the README image. Desktop lettering is staggered; mobile uses its own square composition. The `<picture>` sources select mobile artwork at a maximum viewport width (600px), with the combined dark/mobile source evaluated first. Dark desktop selection follows; the default asset is the fallback.
+A single GitHub README flow holds full-width artwork, short evidence paragraphs and linked controls. GitHub owns its outer container, spacing and wrapping. Canvas coordinates are not CSS display sizes, and there is no authored global spacing scale.
 
-Below the identity, a single Markdown flow uses headings, short paragraphs, direct links, subtext and one native disclosure. GitHub controls the outer container and reading rhythm. There is no authored grid or reusable spacing scale to extract.
+`<picture>` selects dedicated mobile artwork at a maximum viewport width (600px). The fallback is the desktop SVG. No light/dark asset switch is authored: every artwork contains its own dark surface.
+
+| Artwork | Desktop canvas | Mobile canvas |
+| --- | --- | --- |
+| Greeting | 960 × 300px | 480 × 282px |
+| Omi | 960 × 248px | 480 × 345px |
+| Mira | 960 × 248px | 480 × 325px |
+| Independent project | 960 × 166px | 480 × 232px |
+| Toolkit | 960 × 112px | 480 × 230px |
+| Activity | 960 × 150px | 480 × 230px |
+
+Desktop stories pair a title/description with a diagram; Mira reverses the balance. Mobile repositions the same story vertically, the greeting route becomes horizontal, and eight toolkit items become two rows of four. Contact and support controls retain their intrinsic sizes and wrap through the host's normal inline flow.
 
 ## Elevation & Depth
 
-No custom shadows, gradients or elevation layers. Solid fields, scale, position and negative space establish hierarchy. GitHub controls the surrounding page surface.
+No authored shadows, blur or lifted-card states. Tonal panels and subdued strokes separate content. The greeting's broad route underlay and narrow gradient path suggest a cable carrying a signal; this is diagram geometry rather than surface elevation.
 
 ## Shapes
 
-The identity and support graphics have square edges. The signature mark uses six separate radial strokes, square line caps, an open center at a fraction of the radius (0.24), and a stroke width proportional to the radius (0.20). Desktop repeats the mark at different scales; mobile uses one.
-
-**The Open Mark Rule.** Keep the center open and the six square-ended rays separate.
+Panels use gently rounded corners; linked controls use the smaller control radius. Circular nodes, rounded line caps and joins, narrow outbound arrows and simple device silhouettes share one geometric vocabulary. Most diagram strokes use widths (1–2.3px); the desktop greeting combines a route underlay (25px) with a signal path (3px). Preserve these as source-canvas proportions when artwork scales.
 
 ## Components
 
-### Nameplate
+### Greeting and signal
 
-A self-contained SVG image, with four generated variants: desktop/mobile and default/dark. Each carries a title and description; the README image supplies equivalent descriptive alt text. Lettering is geometry and needs no runtime font request. Regenerate all variants from the shared builder.
+The greeting connects labeled agent, app and backend nodes. A one-shot pulse runs for (4.8s) with `cubic-bezier(.16,1,.3,1)`, dash pattern (`8 992`) and offset (1000 to 0). It fades in and out, ending invisible. The source disables animation under `prefers-reduced-motion: reduce`; the complete static route and nodes remain. Local captures establish appearance, not verified playback or live GitHub preference handling.
 
-### Signal trace
+### Work and project stories
 
-A thin ivory line passes through one mark. Its stroke width (2px), dash pattern (`0 28 250 28`) and offset change (278 to 0) create one trace over a duration (5s), using `cubic-bezier(.16,1,.3,1)`. Reduced-motion preference disables the animation. Motion is source-defined; static dark captures establish appearance, not playback behavior.
+Omi explains record/persist/recover; Mira presents source, answer and handoff principles. Astar joins screen, voice and tools. ThaparGo uses connected campus points. The lab juxtaposes claim and evidence and explicitly labels its trace synthetic. These illustrations explain workflows; they are not live product interfaces, operational status or proof of customer recovery. Artwork links to its repository; native text supplies contribution evidence and limits.
 
-### Native reading patterns
+### Toolkit and activity
 
-Navigation is a line of ordinary links, including a support-section anchor. Evidence entries use native headings, linked titles, paragraphs and subtext. Additional work uses `<details>` and `<summary>`. Contact paths remain text links. Their hover, focus and expanded states are host/browser behavior.
+Eight bundled technology icons use individually tinted silhouettes and readable labels. Activity uses two dated figures with distinct accents and a source link. Counts remain snapshot data from `assets/public-work.json`; a visual count does not imply release or customer outcomes.
 
-### Support links
+### Contact and support links
 
-Two generated SVG link graphics reuse the identity's palette and square geometry. Their source canvas (320 × 70px) contains outlined Archivo lettering and an outbound arrow with a stroke width (2.5px). The README renders each at the component dimensions above inside a real outbound anchor with descriptive image alt text. Wise pairs mint with Support Ink; GitHub Sponsors pairs cobalt with ivory. Both remain static and share the same artwork across appearances. Anchor hover and focus behavior belongs to GitHub.
+Five static SVG controls use an icon and outlined label. Each sits inside a real anchor with descriptive image alt text; the native link owns keyboard focus, hover and activation. These are linked images, not application buttons with custom selected, loading or disabled states. The profile has no authored forms, inputs or navigation shell.
 
-The sidecar renders exact dark masthead geometry, isolated mark/trace excerpts and the support graphics. It does not approximate GitHub's CSS or claim that the panel reproduces the full profile.
+All generated SVGs include a title and description, and README images carry equivalent alt text. Sidecar samples inline exact linked artwork and isolated node geometry with namespaced IDs; native anchors retain browser interaction behavior. The panel is an asset specimen, not a reproduction of GitHub's page CSS.
 
 ## Do's and Don'ts
 
 ### Do:
-- Do regenerate identity and support SVGs from `tools/build_assets.py`.
-- Do preserve the mobile artwork selection and descriptive text alternatives.
-- Do keep reading content in native Markdown with direct, inspectable links.
+- Do regenerate artwork from `tools/build_assets.py` and preserve equivalent alt text.
+- Do preserve dedicated mobile compositions and the source reduced-motion rule.
+- Do keep public evidence and factual limits readable in native Markdown.
+- Do label explanatory workflows and synthetic comparisons honestly.
 
 ### Don't:
-- Don't add remote font or widget dependencies to the identity.
-- Don't treat preview tonal ramps as additional shipped colors.
-- Don't replace native body typography with outlined display lettering.
+- Don't interpret merged code counts as release or customer outcomes.
+- Don't add remote widget or runtime font dependencies to the artwork.
+- Don't invent custom form, navigation or interaction states that GitHub cannot render.
+- Don't present the local wrapper preview as verified live GitHub behavior or publication.
