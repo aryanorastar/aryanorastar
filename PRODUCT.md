@@ -35,10 +35,14 @@ User-added references: github.com/maziyarpanahi and github.com/Mahmud0808. Use t
 ## Evidence on Hand
 - Existing README and public profile.
 - Public repository metadata and merged PRs, checked on 2026-10-31.
-- GitHub search: 255 merged PRs authored by Aryan in BasedHardware/omi; 306 merged public PRs across repositories at the audit snapshot. Counts describe merged PRs, not deployments or customer outcomes.
+- GitHub search: 255 merged PRs authored by Aryan in BasedHardware/omi; 307 merged public PRs across repositories at the current audit snapshot. Counts describe merged PRs, not deployments or customer outcomes.
 
 ## Product Principles
 - Let concrete engineering work establish credibility.
-- Use one coherent visual identity, with restrained reading sections.
+- Use one coherent visual identity across the header, project showcases, technology icons and support controls.
 - Make every major claim traceable.
 - Preserve accessibility and avoid fragile remote badge services.
+
+## Current iteration
+
+The second design centers on compact identity, connected system diagrams, distinct project showcases, technology icons and clear contact/support. Aryan accepted the visual preview on 31 October 2026. Keep factual claims, public evidence and the Wise destination; verify live rendering when publishing.
