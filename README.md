@@ -10,7 +10,7 @@
   <a href="#built-from-scratch">Personal projects</a> &nbsp; / &nbsp;
   <a href="https://aryanexe.netlify.app">Portfolio</a> &nbsp; / &nbsp;
   <a href="#support-the-work">Support the work</a> &nbsp; / &nbsp;
-  <a href="mailto:aryangupts05@gmail.com">Say hello ↗</a>
+  <a href="mailto:aryangupts05@gmail.com">Say&nbsp;hello</a>
 </p>
 
 # I build AI products—and the systems people depend on.
