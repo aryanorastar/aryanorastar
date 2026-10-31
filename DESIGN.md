@@ -142,7 +142,7 @@ Artwork is authored vector geometry; reading content and interactions belong to 
 - Explanatory diagrams with distinct desktop and mobile compositions.
 - Native Markdown evidence and ordinary linked images.
 
-Extracted from `tools/build_assets.py`, `assets/*.svg` and `README.md` on 31 October 2026. V2's finish review permits the local preview; publication awaits user review. Preview evidence uses GitHub Markdown API sanitized HTML in a local GitHub-style wrapper at desktop CSS width (1440px) and mobile width (390px). Exact live GitHub surrounding layout, light appearance and motion-preference behavior remain unverified.
+Extracted from `tools/build_assets.py`, `assets/*.svg` and `README.md` on 31 October 2026. V2's finish review permits the local preview, which Aryan accepted on 31 October 2026. Preview evidence uses GitHub Markdown API sanitized HTML in a local GitHub-style wrapper at desktop CSS width (1440px) and mobile width (390px). The local captures do not establish exact live GitHub surrounding layout; verify it when publishing. Light appearance and motion-preference behavior were not exercised.
 
 ## Colors
 

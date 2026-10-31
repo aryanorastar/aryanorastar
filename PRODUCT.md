@@ -45,4 +45,4 @@ User-added references: github.com/maziyarpanahi and github.com/Mahmud0808. Use t
 
 ## Current iteration
 
-The second design is a local preview centered on compact identity, connected system diagrams, distinct project showcases, technology icons and clear contact/support. Keep factual claims, public evidence and the Wise destination. Present the preview for visual review before publishing it.
+The second design centers on compact identity, connected system diagrams, distinct project showcases, technology icons and clear contact/support. Aryan accepted the visual preview on 31 October 2026. Keep factual claims, public evidence and the Wise destination; verify live rendering when publishing.
